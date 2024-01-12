@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 62.5%;
+}
+.container{
+    background-color: red;
+    width: 50%;
+    height: 50rem;
+    display: grid;
+    margin: auto;
+}
+.box{
+    border: 1px solid black;
+    font-size: 2rem;
+}
