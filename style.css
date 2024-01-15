@@ -87,6 +87,7 @@ nav{
     border-right: 1px solid rgba(128, 128, 128, 0.202);
 }
 .nav-box{
+    cursor: pointer;
     font-size: 1.4rem;
     display: flex;
     flex-direction: column;
@@ -105,6 +106,7 @@ nav{
     color: black;
 }
 .nav-right{
+    cursor: pointer;
     width: 20%;
     display: flex;
     align-items: center;
@@ -112,6 +114,7 @@ nav{
     font-size: 1.4rem;
 }
 .nav-right-left{
+    cursor: pointer;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -142,6 +145,7 @@ nav{
     padding: 1rem;
 }
 .box1-abs{
+    
     width: 100%;
     height: 16%;
     background-color: blue;
@@ -453,6 +457,7 @@ nav{
         justify-content: space-around;
     }
     .nav-right-left>p{
+        cursor: pointer;
         display: none;
     }
     .nav-box>p{
